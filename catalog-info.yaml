@@ -5,6 +5,5 @@ metadata:
   description: Uma lib simplona
 spec:
   type: library
-  lifecycle: production
   owner: marketplace
-  
+  lifecycle: production
